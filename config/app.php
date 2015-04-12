@@ -161,6 +161,7 @@ return [
         'GrahamCampbell\BootstrapCMS\Providers\BusServiceProvider',
         'GrahamCampbell\BootstrapCMS\Providers\EventServiceProvider',
         'GrahamCampbell\BootstrapCMS\Providers\RouteServiceProvider',
+        'GrahamCampbell\BootstrapCMS\Providers\CustomValidationServiceProvider',
         'Barryvdh\Debugbar\ServiceProvider',
 
     ],
